@@ -1,0 +1,4 @@
+-- Reference helper for reviewers.
+-- Active security/export DDL lives in:
+--   20260414003000_export_security_pivots.sql
+-- This companion file exists because the lead requested a stable `security-triggers.sql` pointer.

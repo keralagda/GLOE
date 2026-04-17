@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Node
+node_modules/
+.next/
+
+# Local env and runtime
+.env
+backend/logistics.db
+*.sqlite
+*.sqlite3
+
+# Nested repos / OS / editor
+frontend/.git/
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log

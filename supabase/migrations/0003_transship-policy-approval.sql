@@ -1,0 +1,6 @@
+-- Reference helper for reviewers.
+-- The transshipment + policy + approval stack is applied through:
+--   20260414001000_transship_policy_approvals_governance.sql
+--   20260414002000_dispatch_kpis_realtime.sql
+--   20260414003000_export_security_pivots.sql
+-- This pointer file preserves the lead-requested naming convention without duplicating DDL.
